@@ -1,7 +1,9 @@
 .navbar {
-    margin-top: 10px;
+    margin-left: 20px;
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: center ;
+    align-items: center;
+    background-color: dodgerblue;
 }
+

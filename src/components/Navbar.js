@@ -1,6 +1,7 @@
 import React from 'react';
 import {NavLink} from 'react-router-dom';
 import homeicon from '../assets/homeicon.png';
+import './Navbar.css';
 
 export function Navbar(){
     return (
